@@ -1,0 +1,43 @@
+{
+  "data":  [
+    {
+      "text":
+        "Which of the following is not an international organisation?",
+      "answers": [
+        { "text": "FIFA", "isCorrect": false, "_id": 1 },
+        { "text": "NATO", "isCorrect": false, "_id": 2 },
+        { "text": "FBI", "isCorrect": true, "_id": 3 },
+        { "text": "ASEAN", "isCorrect": false, "_id": 4 }
+      ]
+    },
+    {
+      "text":
+        "Which of the following disorders is the fear of being alone?",
+      "answers": [
+        { "text": "Agoraphobia", "isCorrect": true, "_id": 1 },
+        { "text": "Aerophobia", "isCorrect": false, "_id": 2 },
+        { "text": "Acrophobia", "isCorrect": false, "_id": 3 },
+        { "text": "Arachnophobia", "isCorrect": false, "_id": 4 }
+      ]
+    },
+    {
+      "text":
+        "What is the speed of sound?",
+      "answers": [
+        { "text": "120 km/h", "isCorrect": false, "_id": 1 },
+        { "text": "1,200 km/h", "isCorrect": true, "_id": 2 },
+        { "text": "400 km/h", "isCorrect": false, "_id": 3 },
+        { "text": "700 km/h", "isCorrect": false, "_id": 4 } 
+      ]
+    },
+    {
+      "text": "What do we call a newly hatched butterfly?",
+      "answers": [
+        { "text": " A moth", "isCorrect": false, "_id": 1 },
+        { "text": " A butter", "isCorrect": false, "_id": 2 },
+        { "text": " A chrysalis", "isCorrect": false, "_id": 3 },
+        { "text": " A caterpillar", "isCorrect": true,  "_id":4 }
+      ]
+    }
+  ]
+}
